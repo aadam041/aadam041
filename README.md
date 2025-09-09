@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**aadam041/aadam041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Alexis — a Computer Science Senior (sophomore year coursework) at Old Dominion University
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ...
+  - Building Java projects
+  - Coursework in Computer Architecture, Discrete Structures, Object-Oriented Design and Calculus
+ 
 - 🌱 I’m currently learning ...
+  - Java concepts (nested classes, interfaces, generics, JUnit testing)
+  - Unix/Linux shell scripting and system administration
+  - Architectural and operational basics of modern computers
+  - Discrete math — exploring logic, proofs, sets, and graphs
+  - Limits, derivatives, and integrals to understand change, motion, and problem-solving in math and science
+    
 - 👯 I’m looking to collaborate on ...
+  - Beginner-friendly programming tutorials or guides
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - Breaking into AI/LLM development
+  - Strengthening my experience with large-scale systems and secure coding practices
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [LinkedIn](https://www.linkedin.com/in/alexisadams038)
+  - ODU Email: aadam041@odu.edu
+
+- ⚡ Fun fact: When I’m not working on coursework, you’ll probably find me painting 🎨, tracking NFL fantasy football 🏈, or Geocaching 🧩.
+
